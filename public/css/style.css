@@ -1,0 +1,18 @@
+body {
+	background: #ddd;
+}
+
+.content p i { font-size: .8rem; }
+
+.content #title {
+	color: #333;
+}
+
+.navbar-laravel {
+    background-color: #1783ce;
+    /*color: #fff;*/
+}
+
+.navbar-light .navbar-brand, .navbar-light .navbar-brand:focus, .navbar-light .navbar-brand:hover {
+    color: #ffffff;;
+}
